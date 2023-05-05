@@ -22,6 +22,7 @@ jobs:
           - '1'
         arch:
           - x64
+          - x86
     steps:
       - uses: actions/checkout@v3
       - uses: julia-actions/setup-julia@v1
