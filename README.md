@@ -1,3 +1,5 @@
+A shortlived fork of [ResumableFunctions](https://github.com/JuliaDynamics/ResumableFunctions.jl) -- all changes are now upstreamed to the original and the original is now actively maintained once more.
+
 # Semicoroutines
 
 <table>
